@@ -1,4 +1,19 @@
- <!-- Start header -->
+ <!-- start page-wrapper -->
+ <div class="page-wrapper">
+
+<!-- start preloader -->
+<div class="preloader">
+    <div class="inner">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</div>
+<!-- end preloader -->
+
+<!-- Start header -->
  <header id="header" class="site-header header-style-5">
             <div class="topbar">
                 <div class="upper-topbar">
