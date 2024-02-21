@@ -1,3 +1,16 @@
+<!-- start preloader -->
+<div class="preloader">
+    <div class="inner">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</div>
+<!-- end preloader -->
+
+<!-- start of hero --> 
 <section class="hero hero-style-3 hero-slider-wrapper">
     <div class="hero-slider">
         <div class="slide">
