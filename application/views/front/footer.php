@@ -7,7 +7,7 @@
                                 <div class="footer-logo"><img src="assets/images/footer-logo.png" alt></div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
                                 <ul class="contact-info">
-                                    <li><i class="fa fa-phone"></i> +123 (4567) 890  </li>
+                                    <li><i class="fa fa-phone"></i> +91 9876541230  </li>
                                     <li><i class="fa fa-envelope"></i> info@top-finance.com</li>
                                     <li><i class="fa fa-home"></i> 380 St Kilda Road, Melbourne VIC 3004, Australia</li>
                                 </ul>
