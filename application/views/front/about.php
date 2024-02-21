@@ -21,7 +21,7 @@
                 <div class="row">
                     <div class="col col-lg-8 col-md-10">
                         <div class="section-title-s2">
-                            <h2>Our goal is to make customers feel they’re secured</h2>
+                            <h2>We are here to develop</h2>
                         </div>
                     </div>
                 </div>
