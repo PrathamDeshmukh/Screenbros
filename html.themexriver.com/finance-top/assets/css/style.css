@@ -2300,7 +2300,7 @@ img {
   }
 }
 
-/* .style-switcher-box {
+ .style-switcher-box {
   background-color: #fff;
   width: 252px;
   padding: 50px 25px;
@@ -2422,7 +2422,7 @@ img {
 
 .toggle-switcherbox {
   left: 0;
-}
+} */
 
 /*** rotating ***/
 @-webkit-keyframes rotating {
