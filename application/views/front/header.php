@@ -7,8 +7,10 @@
                             <div class="col col-sm-9">
                                 <div class="upper-topbar-contact">
                                     <ul>
-                                        <li><i class="fa fa-envelope"></i> info@top-finance.com</li>
-                                        <li><i class="fa fa-location-arrow"></i> 380 St Kilda Road, Melbourne, VIC 3004, Australia</li>
+                                    <li>
+                              <a href="mailto:info@screenbros.in" class="">info@screenbros.in</a>
+                          </li>
+                                        <li><i class="fa fa-location-arrow"></i>1, Vittal Mallya Road, Bangalore.</li>
                                     </ul>
                                 </div>
                             </div>
