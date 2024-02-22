@@ -18,7 +18,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 slide-caption">
-                        <h2>We are your financial solution</h2>
+                        <h2>"Building Stability, Embracing Opportunity: <br>Your Trusted Partners in Finance and Risk Management."</h2>
                         <div class="btns">
                             <a href="about" class="theme-btn">About us</a>
                             <a href="services" class="theme-btn-s2">Our Services</a>
@@ -75,14 +75,14 @@
         <div class="row">
             <div class="col col-md-7">
                 <div class="about-details">
-                    <p>Unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+                    <!-- <p>Unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
                         eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
                         explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
                         consequuntur magni dolores eos qui ratione voluptatem.</p>
                     <h3>Quality and reliability</h3>
                     <p>Aroident, sunt in culpa qui officia deserunt mollit anim id est laborum. Consect petur. Aroident,
                         sunt in culpa qui officia deserunt mollit anim id est laborum. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> -->
                 </div>
             </div>
 
