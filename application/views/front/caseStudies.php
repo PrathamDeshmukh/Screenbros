@@ -1,4 +1,15 @@
- <!-- start page-title -->
+ <!-- start preloader -->
+<div class="preloader">
+    <div class="inner">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</div>
+<!-- end preloader -->
+<!-- start page-title -->
  <section class="page-title">
             <div class="container">
                 <div class="row">
